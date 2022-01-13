@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! I’m James.
 
 <!--
 **JSLBrowning/jslbrowning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m a PhD student at Auburn University, studying computer science and software engineering. My studies are currently focused on machine learning.
+
+Chances are you’re here because of [that other thing](https://wallofhistory.com/ "JSLBrowning"), though. If you’re interested in looking at the code, you can do so [here](https://github.com/JSLBrowning/Wall-of-History), but be warned — it’s still kind of a mess down there.
+
+If you’d like to contact me, my [email](mailto:james@wallofhistory.com) is your best bet.
