@@ -20,5 +20,3 @@ I’m a PhD student at Auburn University, studying computer science and software
 Chances are you’re here because of [that other thing](https://wallofhistory.com/ "JSLBrowning"), though. 📚 If you’re interested in looking at the code, you can do so [here](https://github.com/JSLBrowning/Wall-of-History), but be warned — it’s still kind of a mess down there.
 
 If you’d like to contact me, my [email](mailto:james@wallofhistory.com) is your best bet. 📧
-
-[![JSLBrowning's GitHub stats](https://github-readme-stats.vercel.app/api?username=jslbrowning)](https://github.com/anuraghazra/github-readme-stats)
