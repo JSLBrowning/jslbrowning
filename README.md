@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a Ph.D. student at Auburn University, studying computer science and software engineering. 🖥️ My studies are currently focused on machine learning. 🤖
+I’m a Ph.D. student at Auburn University, studying computer science and software engineering. 🖥️ My studies are currently focused on artificial intelligence and machine learning. 🤖
 
 Chances are you’re here because of [that other thing](https://wallofhistory.com/ "Wall of History"), though. 📚 If you’re interested in looking at the code, you can do so [here](https://github.com/JSLBrowning/Wall-of-History), but be warned — it’s still kind of a mess down there.
 
