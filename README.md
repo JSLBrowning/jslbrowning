@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 I’m a computer guy. 🖥️ My career/research interests lean primarily towards artificial intelligence and evolutionary computing. 🤖
 
-Chances are you’re here because of [that other thing](https://wallofhistory.com/ "Wall of History"), though. 📚 If you’re interested in looking at the code, you can do so [here](https://github.com/JSLBrowning/Wall-of-History), but be warned — it’s still kind of a mess down there.
-
 If you’d like to contact me, my [email](mailto:james@wallofhistory.com) is your best bet. 📧
