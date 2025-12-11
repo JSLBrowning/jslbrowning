@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a computer guy. 🖥️ My career/research interests lean primarily towards artificial intelligence and evolutionary computing. 🤖
+Graduate research assistant at Auburn University studying evolutionary algorithms and their application to protein design. (I also run [that one BIONICLE® website](https://wallofhistory.com/), which is probably way more popular than any of the cool science stuff I do.)
 
-If you’d like to contact me, my [email](mailto:james@wallofhistory.com) is your best bet. 📧
+If you’d like to contact me, my [email](mailto:jlb0181@auburn.edu) is your best bet.
