@@ -1,4 +1,4 @@
-### Hey there, I’m James.
+### Hey there, I’m Ruby.
 
 <!--
 **JSLBrowning/jslbrowning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
